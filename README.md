@@ -38,6 +38,13 @@ Making it Reliable: We tested everything carefully to make sure it worked smooth
 # Day 6: 
 Going Live: We put the project online!  Now people can actually visit the website.  We also set up some secret keys (environment variables) to keep important information like passwords safe.
 
+# Day 7:
+Key Activities
+✅ Secure Configuration – Protected environment variables & enabled HTTPS.
+✅ Performance Optimization – Minimized assets, enabled caching & lazy loading.
+✅ Monitoring & Maintenance – Integrated Sentry for error tracking & analytics.
+✅ Future Enhancements – Improve scalability & implement CI/CD for updates.
+
 
 
 
